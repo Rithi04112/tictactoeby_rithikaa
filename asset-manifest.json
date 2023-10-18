@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tictactoe_ritz/static/css/main.698ced6d.css",
+    "main.js": "/tictactoe_ritz/static/js/main.381160e3.js",
+    "static/js/787.ac34fb11.chunk.js": "/tictactoe_ritz/static/js/787.ac34fb11.chunk.js",
+    "index.html": "/tictactoe_ritz/index.html",
+    "main.698ced6d.css.map": "/tictactoe_ritz/static/css/main.698ced6d.css.map",
+    "main.381160e3.js.map": "/tictactoe_ritz/static/js/main.381160e3.js.map",
+    "787.ac34fb11.chunk.js.map": "/tictactoe_ritz/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698ced6d.css",
+    "static/js/main.381160e3.js"
+  ]
+}
